@@ -1,0 +1,6 @@
+{
+  "load": [
+    "file1.lua",
+    "file2.lua"
+  ]
+}
